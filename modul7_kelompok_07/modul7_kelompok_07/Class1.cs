@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Text.Json;
+using static DataMahasiswa_1302213050;
 
 class DataMahasiswa_1302213050
 {
