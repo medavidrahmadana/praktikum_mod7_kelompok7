@@ -1,0 +1,38 @@
+{
+   "firstName": "mohamad",
+   "lastName": "william",
+   "gender": "male",
+   "age": 18,
+   "address": {
+       "streetAddress": "sukapuri",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI232",
+      "name": "basdat"
+    }
+    {
+      "code": "CRI211",
+      "name": "PBO"
+    }
+    {
+      "code": "CRI278",
+      "name": "uaiueks"
+    }
+    {
+      "code": "CRI299",
+      "name": "pmpl"
+    }
+    {
+      "code": "CRI256",
+      "name": "proting"
+    }
+   
+  ]
+}
