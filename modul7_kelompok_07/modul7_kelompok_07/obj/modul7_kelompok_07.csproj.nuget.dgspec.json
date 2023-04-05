@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PRAKTIKAN\\Downloads\\modul7_kelompok_07\\modul7_kelompok_07\\modul7_kelompok_07.csproj": {}
+    "C:\\Users\\PRAKTIKAN\\Documents\\JURNAL_MODUL6_1302213091\\praktikum_mod7_kelompok7\\modul7_kelompok_07\\modul7_kelompok_07\\modul7_kelompok_07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PRAKTIKAN\\Downloads\\modul7_kelompok_07\\modul7_kelompok_07\\modul7_kelompok_07.csproj": {
+    "C:\\Users\\PRAKTIKAN\\Documents\\JURNAL_MODUL6_1302213091\\praktikum_mod7_kelompok7\\modul7_kelompok_07\\modul7_kelompok_07\\modul7_kelompok_07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\modul7_kelompok_07\\modul7_kelompok_07\\modul7_kelompok_07.csproj",
+        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Documents\\JURNAL_MODUL6_1302213091\\praktikum_mod7_kelompok7\\modul7_kelompok_07\\modul7_kelompok_07\\modul7_kelompok_07.csproj",
         "projectName": "modul7_kelompok_07",
-        "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\modul7_kelompok_07\\modul7_kelompok_07\\modul7_kelompok_07.csproj",
+        "projectPath": "C:\\Users\\PRAKTIKAN\\Documents\\JURNAL_MODUL6_1302213091\\praktikum_mod7_kelompok7\\modul7_kelompok_07\\modul7_kelompok_07\\modul7_kelompok_07.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PRAKTIKAN\\Downloads\\modul7_kelompok_07\\modul7_kelompok_07\\obj\\",
+        "outputPath": "C:\\Users\\PRAKTIKAN\\Documents\\JURNAL_MODUL6_1302213091\\praktikum_mod7_kelompok7\\modul7_kelompok_07\\modul7_kelompok_07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\obj\Debug\net6.0\modul7_kelompok_07.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\obj\Debug\net6.0\modul7_kelompok_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\obj\Debug\net6.0\modul7_kelompok_07.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\obj\Debug\net6.0\modul7_kelompok_07.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\obj\Debug\net6.0\modul7_kelompok_07.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\bin\Debug\net6.0\modul7_kelompok_07.exe
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\bin\Debug\net6.0\modul7_kelompok_07.deps.json
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\bin\Debug\net6.0\modul7_kelompok_07.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\bin\Debug\net6.0\modul7_kelompok_07.dll
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\bin\Debug\net6.0\modul7_kelompok_07.pdb
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\obj\Debug\net6.0\modul7_kelompok_07.dll
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\obj\Debug\net6.0\refint\modul7_kelompok_07.dll
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\obj\Debug\net6.0\modul7_kelompok_07.pdb
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\obj\Debug\net6.0\modul7_kelompok_07.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\JURNAL_MODUL6_1302213091\praktikum_mod7_kelompok7\modul7_kelompok_07\modul7_kelompok_07\obj\Debug\net6.0\ref\modul7_kelompok_07.dll

@@ -1,0 +1,21 @@
+{
+  "firstName": "Yoga",
+  "lastName": "Elfaraby",
+  "gender": "male",
+  "age": 19,
+  "address": {
+    "streetAddress": "SukaPura",
+    "city": "Bandung",
+    "state": "West Java"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2C6",
+      "name": "Baca Tulis Qur'an"
+    }
+  ]
+}
