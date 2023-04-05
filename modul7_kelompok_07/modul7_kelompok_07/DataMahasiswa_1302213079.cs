@@ -31,7 +31,8 @@ class DataMahasiswa_1302213079
         DataMahasiswa_1302213079 mahasiswa = JsonSerializer.Deserialize<DataMahasiswa_1302213079>(jsonString);
 
         Console.WriteLine("Nama: {0} {1} \nGender: {2} \nBerumur: {3} \nBeralamat: {4}, {5}, {6}",
-            mahasiswa.firstName, mahasiswa.lastName, mahasiswa.gender, mahasiswa.age, mahasiswa.address.streetAddress, mahasiswa.address.city, mahasiswa.address.state);
+            mahasiswa.firstName, mahasiswa.lastName, mahasiswa.gender, 
+            mahasiswa.age, mahasiswa.address.streetAddress, mahasiswa.address.city, mahasiswa.address.state);
 
         Console.WriteLine("====================================================================");
         Console.WriteLine("Daftar mata kuliah yang diambil:");
