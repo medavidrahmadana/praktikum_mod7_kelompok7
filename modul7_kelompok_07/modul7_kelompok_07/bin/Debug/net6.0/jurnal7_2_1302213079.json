@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "firstName": "David",
+      "lastName": "Gholi Rahmadana",
+      "gender": "Lakik",
+      "age": 19,
+      "nim": "1302213079"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Risky Farhan",
+      "gender": "Lakik",
+      "age": 21,
+      "nim": "1302210056"
+    },
+    {
+      "firstName": "Gabriella",
+      "lastName": "Sheryl Audrey Tambunan",
+      "gender": "Ciway",
+      "age": 18,
+      "nim": "1302213054"
+    },
+    {
+      "firstName": "Yoga",
+      "lastName": "Ananta Elfaraby",
+      "gender": "Lakik",
+      "age": 19,
+      "nim": "1302213050"
+    },
+    {
+      "firstName": "Mohamad",
+      "lastName": "William",
+      "gender": "Lakik",
+      "age": 19,
+      "nim": "1302213034"
+    }
+  ]
+}
