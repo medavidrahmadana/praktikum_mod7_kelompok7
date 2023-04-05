@@ -16,7 +16,7 @@ class DataMahasiswa_1302213034
         public string city { get; set; }
         public string state { get; set; }
     }
-    public class Course
+        public class Course
     {
         public string code { get; set; }
         public string name { get; set; }
