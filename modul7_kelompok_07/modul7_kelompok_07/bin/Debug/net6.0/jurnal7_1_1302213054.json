@@ -1,0 +1,37 @@
+{
+   "firstName": "Gabriela Sheryl Audrey",
+   "lastName": "Tambunan",
+   "gender": "female",
+   "age": 18,
+   "address": {
+       "streetAddress": "PGA",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+
+    {
+      "code": "CRI2G1",
+      "name": "Proting II"
+    },
+
+    {
+      "code": "CRI223",
+      "name": "Struktur Data"
+    },
+
+    {
+      "code": "CRI2A8",
+      "name": "Penjaminan Perangkat Lunak"
+    },
+
+    {
+      "code": "CRI2J1",
+      "name": "Dasar Jaringan Komputer"
+    }
+  ]
+}

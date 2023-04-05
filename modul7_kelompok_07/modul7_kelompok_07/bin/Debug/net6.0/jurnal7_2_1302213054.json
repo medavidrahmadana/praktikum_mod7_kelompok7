@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "firstName": "Gabriela Sheryl Audrey",
+      "lastName": "Tambunan",
+      "gender": "female",
+      "age": 18,
+      "nim": "1302213054"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Gholi",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302213079"
+    },
+    {
+      "firstName": "Mohamad",
+      "lastName": "Wiliam",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302213034"
+    },
+    {
+      "firstName": "Risky",
+      "lastName": "Farhan",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302210056"
+    },
+    {
+      "firstName": "Yoga",
+      "lastName": "Ananta",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302213050"
+    }
+  ]
+}
